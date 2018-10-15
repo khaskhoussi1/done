@@ -25,7 +25,9 @@ client.user.setGame(` Me ..  `,"http://twitch.tv/S-F")
   console.log('╚[════════════]╝')
   console.log('')
   console.log('')
-});(args)
+});
+
+
 }
 
 
