@@ -1,15 +1,15 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-
-client.on('rاeady', () => {
+ 
+client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` Me ..  `,"http://twitch.tv/S-F")
+client.user.setGame(` My Love Is ...  `,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
   console.log(`[Start] ${new Date()}`);
   console.log('╚[═════════════════════════════════════════════════════════════════]╝')
-  console.log(ل'')
+  console.log('')
   console.log('╔[════════════════════════════════════]╗');
   console.log(`Logged in as * [ " ${client.user.username} " ]`);
   console.log('')
